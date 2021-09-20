@@ -1,5 +1,8 @@
 #Listado de archivos y carpetas ignoradas
 
+#Archivos
+
+#Carpetas
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
